@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-05-29 21:00:02 UTC
+#Generated on: 2026-05-30 00:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-05-29 21:00:02 UTC
+#生成時間: 2026-05-30 00:00:02 UTC
 
 
 綜藝,#genre#
@@ -73,7 +73,6 @@
 [BD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd-2.m3u8
 [HD]cctv-8k超高清,https://t.freetv.fun/live/cctv-8kchao-gao-qing-2.m3u8
 [BD]cctv-8k超高清,https://t.freetv.fun/live/cctv-8kchao-gao-qing-3.m3u8
-[BD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd-4.m3u8
 [HD]cctv-8,https://t.freetv.fun/live/cctv-8-5.m3u8
 [SD]cctv1,https://t.freetv.fun/live/cctv1-1.m3u8
 [SD]cctv1,https://t.freetv.fun/live/cctv1-2.m3u8
@@ -552,7 +551,6 @@
 [VGA]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-16.m3u8
 [VGA]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-17.m3u8
 [VGA]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-18.m3u8
-[BD]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-22.m3u8
 [BD]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-24.m3u8
 [BD]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-25.m3u8
 [BD]广东珠江高清,https://t.freetv.fun/live/yan-dong-zhu-jiang-gao-qing-26.m3u8
@@ -1703,7 +1701,6 @@
 [SD]cctv第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-1.m3u8
 [BD]cctv第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-2.m3u8
 [BD]cctv-第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
-[BD]cctv-第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-1.m3u8
 [BD]cctv-第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-2.m3u8
 [VGA]cctv-第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-3.m3u8
 [HD]cctv-第一剧场,https://t.freetv.fun/live/cctv-di-yi-ju-chang-4.m3u8
@@ -1739,7 +1736,6 @@
 [VGA]chc高清电影,https://t.freetv.fun/live/chcgao-qing-dian-ying-1.m3u8
 [VGA]chc高清电影,https://t.freetv.fun/live/chcgao-qing-dian-ying-3.m3u8
 [VGA]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
-[BD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-10.m3u8
 [BD]chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-11.php
 [BD]上虞文化,https://t.freetv.fun/live/shang-yu-wen-hua.m3u8
 [BD]上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
@@ -1869,8 +1865,6 @@
 [SD]cctv15hd,https://t.freetv.fun/live/cctv15hd-1.m3u8
 [SD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-15.m3u8
 [BD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le.m3u8
-[BD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le-1.m3u8
-[BD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le-2.m3u8
 [BD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le-3.m3u8
 [HD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le-4.m3u8
 新聞,#genre#
@@ -1897,7 +1891,6 @@
 [SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-4.m3u8
 [SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-6.m3u8
 [BD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-7.m3u8
-[BD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-4.m3u8
 [BD]cctv-13,https://t.freetv.fun/live/cctv-13-6.m3u8
 [BD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-15.m3u8
 [BD]cctv13hd,https://t.freetv.fun/live/cctv13hd-1.m3u8
@@ -2656,7 +2649,7 @@
 [VGA]cctv16hd,https://t.freetv.fun/live/cctv16hd.m3u8
 [BD]cctv-16hd,https://t.freetv.fun/live/cctv-16hd.m3u8
 [HD]cctv-16hd,https://t.freetv.fun/live/cctv-16hd-1.m3u8
-[HD]cctv-16hd,https://t.freetv.fun/live/cctv-16hd-2.m3u8
+[BD]cctv-16hd,https://t.freetv.fun/live/cctv-16hd-2.m3u8
 [BD]cctv-16,https://t.freetv.fun/live/cctv-16-3.m3u8
 [BD]cctv16hd,https://t.freetv.fun/live/cctv16hd-1.m3u8
 [BD]cctv-16奥运,https://t.freetv.fun/live/cctv-16ao-yun.php
@@ -2685,7 +2678,7 @@
 [BD]cctv-05,https://t.freetv.fun/live/cctv-05-1.php
 [BD]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-1.m3u8
 [BD]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-2.m3u8
-[BD]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-3.m3u8
+[HD]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-3.m3u8
 [HD]cctv-5,https://t.freetv.fun/live/cctv-5-3.m3u8
 [BD]cctv5hd,https://t.freetv.fun/live/cctv5hd-1.m3u8
 [BD]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-4.m3u8
@@ -2716,7 +2709,6 @@
 [BD]cctv风云足球,https://t.freetv.fun/live/cctvfeng-yun-zu-qiu-8.m3u8
 [BD]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu.m3u8
 [VGA]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-1.m3u8
-[BD]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-2.m3u8
 [VGA]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-3.m3u8
 [HD]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-4.m3u8
 [HD]cctv-风云足球,https://t.freetv.fun/live/cctv-feng-yun-zu-qiu-5.m3u8
@@ -2784,7 +2776,6 @@
 [HD]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong.m3u8
 [HD]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-1.m3u8
 [HD]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-2.m3u8
-[HD]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-3.m3u8
 [HD]绵阳梓潼综合,https://t.freetv.fun/live/mian-yang-zi-tong-zong-he.m3u8
 [BD]镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa50
 [BD]镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa16
