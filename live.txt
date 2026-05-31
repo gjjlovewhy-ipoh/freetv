@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-05-31 06:00:02 UTC
+#Generated on: 2026-05-31 08:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-05-31 06:00:02 UTC
+#生成時間: 2026-05-31 08:00:02 UTC
 
 
 綜藝,#genre#
@@ -26,6 +26,7 @@
 [BD]cctv3,https://t.freetv.fun/live/cctv3-8.m3u8
 [BD]cctv3,https://t.freetv.fun/live/cctv3-9.m3u8
 [BD]cctv3,https://t.freetv.fun/live/cctv3-10.m3u8
+[BD]cctv3,http://123.130.84.106:8154/tsfile/live/0003_1.m3u8
 [BD]cctv3,https://t.freetv.fun/live/cctv3-15.m3u8
 [HD]cctv3综艺,https://t.freetv.fun/live/cctv3zong-yi.m3u8
 [BD]cctv3-综艺 高清,https://t.freetv.fun/live/cctv3-zong-yi-gao-qing.php
@@ -60,6 +61,7 @@
 [HD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le.m3u8
 [SD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-1.m3u8
 [SD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-2.m3u8
+[SD]湖南娱乐,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPWh3X3Bob25lJmNocz0mZGVmPTEmcz05MTYxZjkwOWEzM2ZhZWNjMDRmN2QxNWY5MmUwZjM0NiZ1aWQ9JnV1aWQ9ZjIzYzJjMGY3ODJlYTBmMGMxZDk5MDE4NGY5Mjc5MGYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc4MDIzMjE4MQ,,/HNYLMPP360.m3u8
 綜合,#genre#
 [BD]cctv-8k,https://t.freetv.fun/live/cctv-8k.m3u8
 [BD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd.m3u8
@@ -99,6 +101,7 @@
 [BD]cctv12hd,https://t.freetv.fun/live/cctv12hd-2.m3u8
 [BD]cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing.m3u8
 [BD]cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-1.m3u8
+[BD]cctv-4k高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1780261200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-2ca82389c58ed2091db187fe9dbaedce&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 [BD]cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-6.m3u8
 [BD]cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-7.m3u8
 [BD]cctv-4k高清,https://t.freetv.fun/live/cctv-4kgao-qing-8.m3u8
@@ -115,6 +118,7 @@
 [HD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
+[BD]cctv-4 中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780261200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-9e17e9cc2e86698b87710d0307b41d65&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-6.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-10.m3u8
@@ -220,6 +224,7 @@
 [BD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-6.m3u8
 [SD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-17.m3u8
 [SD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-12.m3u8
+[BD]吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
 [SD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-10.m3u8
 [BD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-16.m3u8
 [BD]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-31.m3u8
@@ -440,6 +445,7 @@
 [VGA]广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-9.m3u8
 [VGA]广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-10.m3u8
 [VGA]广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-11.m3u8
+[BD]广东民生,http://www.3344.uk:8888/rtp/239.77.0.5:5146$IPV4•线路17
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing.m3u8
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-1.m3u8
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-2.m3u8
@@ -471,6 +477,7 @@
 [HD]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-20.m3u8
 [BD]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-3.m3u8
 [VGA]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-4.m3u8
+[HD]广东珠江,http://www.3344.uk:8888/rtp/239.77.1.94:5146$IPV4•线路29
 [HD]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-7.m3u8
 [SD]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-8.m3u8
 [HD]广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-9.m3u8
@@ -845,6 +852,7 @@
 [VGA]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-19.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-20.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-21.m3u8
+[BD]河南卫视,http://113.96.145.58/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3575b8200e5523a0e35552099cc609dd&wsTime=1780219736&wsSession=20942dd437b42e868c7ebfd7-178020794093338&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295652015820526
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-26.m3u8
 [SD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-27.m3u8
 [SD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-29.m3u8
@@ -2099,6 +2107,7 @@
 [SD]cctv-10科教,https://t.freetv.fun/live/cctv-10ke-jiao-14.m3u8
 [HD]cctv10hd,https://t.freetv.fun/live/cctv10hd-1.m3u8
 [SD]cctv17,https://t.freetv.fun/live/cctv17-4.m3u8
+[BD]cctv17,http://123.130.84.106:8154/tsfile/live/0019_1.m3u8
 [BD]cctv17,https://t.freetv.fun/live/cctv17.m3u8
 [BD]cctv17,https://t.freetv.fun/live/cctv17-1.m3u8
 [BD]cctv17,https://t.freetv.fun/live/cctv17-2.m3u8
@@ -2431,6 +2440,7 @@
 [HD]广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai-5.m3u8
 [BD]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
 [HD]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-4.m3u8
+[BD]广东体育,http://www.3344.uk:8888/rtp/239.77.0.6:5146$IPV4•线路29
 [BD]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-1.m3u8
 [BD]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
 [BD]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-10.m3u8
