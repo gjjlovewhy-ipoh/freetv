@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-06-09 10:00:02 UTC
+#Generated on: 2026-06-09 14:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-06-09 10:00:02 UTC
+#生成時間: 2026-06-09 14:00:02 UTC
 
 
 綜藝,#genre#
@@ -37,7 +37,6 @@
 [HD]cctv3hd,https://t.freetv.fun/live/cctv3hd.m3u8
 [BD]cctv-3hd,https://t.freetv.fun/live/cctv-3hd-1.m3u8
 [HD]cctv3hd,https://t.freetv.fun/live/cctv3hd-1.m3u8
-[BD]cctv-3hd,https://t.freetv.fun/live/cctv-3hd-2.m3u8
 [HD]cctv-3,https://t.freetv.fun/live/cctv-3-5.m3u8
 [BD]cctv3hd,https://t.freetv.fun/live/cctv3hd-2.m3u8
 [BD]cctv-3,https://t.freetv.fun/live/cctv-3-6.m3u8
@@ -62,7 +61,6 @@
 [HD]cctv-8,https://t.freetv.fun/live/cctv-8-1.m3u8
 [SD]cctv-8,https://t.freetv.fun/live/cctv-8-2.m3u8
 [SD]cctv-8,https://t.freetv.fun/live/cctv-8-3.m3u8
-[HD]cctv-8k超高清,https://t.freetv.fun/live/cctv-8kchao-gao-qing.m3u8
 [HD]cctv-8k超高清,https://t.freetv.fun/live/cctv-8kchao-gao-qing-1.m3u8
 [BD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd-1.m3u8
 [HD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd-2.m3u8
@@ -72,6 +70,7 @@
 [SD]cctv1,https://t.freetv.fun/live/cctv1-2.m3u8
 [BD]cctv1,https://t.freetv.fun/live/cctv1-7.m3u8
 [VGA]cctv1,https://t.freetv.fun/live/cctv1.m3u8
+[HD]cctv1,https://t.freetv.fun/live/cctv1-5.m3u8
 [SD]cctv12,https://t.freetv.fun/live/cctv12-1.m3u8
 [BD]cctv12,https://t.freetv.fun/live/cctv12-2.m3u8
 [SD]cctv12,https://t.freetv.fun/live/cctv12.m3u8
@@ -82,7 +81,7 @@
 [HD]cctv-12,https://t.freetv.fun/live/cctv-12-2.m3u8
 [SD]cctv-12,https://t.freetv.fun/live/cctv-12-3.m3u8
 [HD]cctv-12hd,https://t.freetv.fun/live/cctv-12hd-1.m3u8
-[BD]cctv-12hd,https://t.freetv.fun/live/cctv-12hd-2.m3u8
+[HD]cctv-12hd,https://t.freetv.fun/live/cctv-12hd-2.m3u8
 [BD]cctv-12hd,https://t.freetv.fun/live/cctv-12hd-3.m3u8
 [BD]cctv-12,https://t.freetv.fun/live/cctv-12-5.m3u8
 [BD]cctv12hd,https://t.freetv.fun/live/cctv12hd-1.m3u8
@@ -96,7 +95,7 @@
 [BD]cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-3.m3u8
 [HD]cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-4.m3u8
 [HD]cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-5.m3u8
-[SD]cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-8.m3u8
+[BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 [HD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
@@ -172,7 +171,6 @@
 [HD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-26.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-27.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-28.m3u8
-[BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-29.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-30.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-31.m3u8
 [BD]广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-2.m3u8
@@ -269,9 +267,7 @@
 [BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-12.m3u8
 [BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-13.m3u8
 [BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-14.m3u8
-[BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-18.m3u8
 [VGA]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-19.m3u8
-[BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-20.m3u8
 [BD]大湾区卫视高清,https://t.freetv.fun/live/da-wan-qu-wei-shi-gao-qing-24.m3u8
 [HD]大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-31.m3u8
 [HD]大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-32.m3u8
@@ -340,6 +336,7 @@
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-7.m3u8
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-9.m3u8
+[BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-10.m3u8
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-12.m3u8
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-13.m3u8
 [BD]山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-14.m3u8
@@ -425,7 +422,6 @@
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-10.m3u8
 [VGA]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-12.m3u8
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-13.m3u8
-[BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-16.m3u8
 [VGA]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-17.m3u8
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-21.m3u8
 [BD]广东民生高清,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-23.m3u8
@@ -531,7 +527,6 @@
 [VGA]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-16.m3u8
 [BD]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-17.m3u8
 [VGA]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-18.m3u8
-[BD]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-19.m3u8
 [VGA]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-20.m3u8
 [BD]广东卫视高清,https://t.freetv.fun/live/yan-dong-wei-shi-gao-qing-22.m3u8
 [BD]广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi.m3u8
@@ -662,7 +657,6 @@
 [BD]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-12.m3u8
 [BD]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-13.m3u8
 [VGA]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-15.m3u8
-[BD]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-20.m3u8
 [VGA]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-22.m3u8
 [BD]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-28.m3u8
 [BD]汕尾综合高清,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-29.m3u8
@@ -682,7 +676,6 @@
 [BD]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-14.m3u8
 [VGA]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-15.m3u8
 [VGA]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-16.m3u8
-[BD]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-17.m3u8
 [VGA]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-18.m3u8
 [BD]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-21.m3u8
 [VGA]汕头生活高清,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-23.m3u8
@@ -716,6 +709,7 @@
 [SD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-10.m3u8
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-30.m3u8
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi.m3u8
+[BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-1.m3u8
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-2.m3u8
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-5.m3u8
 [HD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-6.m3u8
@@ -747,6 +741,7 @@
 [HD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-32.m3u8
 [SD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-16.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-28.m3u8
+[BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-3.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-8.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-9.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-10.m3u8
@@ -801,6 +796,7 @@
 [SD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-8.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-10.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-12.m3u8
+[BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-15.m3u8
 [HD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-16.m3u8
 [SD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-17.m3u8
@@ -1020,6 +1016,7 @@
 [VGA]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-25.m3u8
 [BD]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-26.m3u8
 [BD]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-31.m3u8
+[SD]湖南都市,https://t.freetv.fun/live/hu-nan-du-shi.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-1.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-2.m3u8
@@ -1035,8 +1032,6 @@
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-14.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-15.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-16.m3u8
-[VGA]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-18.m3u8
-[VGA]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-22.m3u8
 [VGA]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-23.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-27.m3u8
 [BD]潮州综合高清,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-30.m3u8
@@ -1147,6 +1142,7 @@
 [BD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-1.m3u8
 [BD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-4.m3u8
 [BD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-11.m3u8
+[BD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-17.m3u8
 [SD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi.m3u8
 [BD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-10.m3u8
 [SD]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-25.m3u8
@@ -1241,11 +1237,9 @@
 [SD]cctv-14,https://t.freetv.fun/live/cctv-14-4.m3u8
 [BD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-1.m3u8
 [BD]cctv-14hd,https://t.freetv.fun/live/cctv-14hd-1.m3u8
-[BD]cctv-14hd,https://t.freetv.fun/live/cctv-14hd-2.m3u8
+[HD]cctv-14hd,https://t.freetv.fun/live/cctv-14hd-2.m3u8
 [BD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-2.m3u8
 [HD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-3.m3u8
-[SD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-5.m3u8
-[SD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-6.m3u8
 [BD]cctv-14hd,https://t.freetv.fun/live/cctv-14hd-3.m3u8
 [VGA]cctv14-少儿,https://t.freetv.fun/live/cctv14-shao-er-4.m3u8
 [BD]cctv-14,https://t.freetv.fun/live/cctv-14-5.m3u8
@@ -1310,7 +1304,6 @@
 [BD]广东少儿高清,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-12.m3u8
 [BD]广东少儿高清,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-13.m3u8
 [VGA]广东少儿高清,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-14.m3u8
-[BD]广东少儿高清,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-18.m3u8
 [BD]广东少儿高清,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-19.m3u8
 [HD]江西少儿家庭,https://t.freetv.fun/live/jiang-xi-shao-er-jia-ting.m3u8
 [HD]江西少儿家庭,https://t.freetv.fun/live/jiang-xi-shao-er-jia-ting-1.m3u8
@@ -1329,6 +1322,7 @@
 [VGA]浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-3.m3u8
 [VGA]浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-2-1.m3u8
 [BD]浙江少儿,https://t.freetv.fun/live/zhe-jiang-shao-er-3-1.m3u8
+[HD]海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao.m3u8
 [BD]深圳少儿,https://t.freetv.fun/live/shen-zhen-shao-er-2.m3u8
 [BD]辽宁教育青少,https://t.freetv.fun/live/liao-zhu-jiao-yu-qing-shao.m3u8
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong.m3u8
@@ -1409,7 +1403,7 @@
 [BD]cctv-11hd,https://t.freetv.fun/live/cctv-11hd.m3u8
 [BD]cctv11hd,https://t.freetv.fun/live/cctv11hd.m3u8
 [VGA]cctv11-戏曲,https://t.freetv.fun/live/cctv11-xi-qu-3.m3u8
-[HD]cctv-11hd,https://t.freetv.fun/live/cctv-11hd-1.m3u8
+[BD]cctv-11hd,https://t.freetv.fun/live/cctv-11hd-1.m3u8
 [HD]cctv-11hd,https://t.freetv.fun/live/cctv-11hd-2.m3u8
 [BD]cctv-11hd,https://t.freetv.fun/live/cctv-11hd-3.m3u8
 [BD]cctv-11,https://t.freetv.fun/live/cctv-11-5.m3u8
@@ -1430,7 +1424,6 @@
 [HD]cctv6hd,https://t.freetv.fun/live/cctv6hd.m3u8
 [VGA]cctv6-电影,https://t.freetv.fun/live/cctv6-dian-ying-2.m3u8
 [HD]cctv-6hd,https://t.freetv.fun/live/cctv-6hd-1.m3u8
-[BD]cctv-6hd,https://t.freetv.fun/live/cctv-6hd-2.m3u8
 [BD]cctv-6hd,https://t.freetv.fun/live/cctv-6hd-3.m3u8
 [HD]cctv-6,https://t.freetv.fun/live/cctv-6-3.m3u8
 [BD]cctv6hd,https://t.freetv.fun/live/cctv6hd-1.m3u8
@@ -1502,8 +1495,6 @@
 [BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-12.m3u8
 [BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-13.m3u8
 [VGA]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-15.m3u8
-[BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-16.m3u8
-[BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-17.m3u8
 [VGA]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-24.m3u8
 [BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-27.m3u8
 [BD]广东影视高清,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-29.m3u8
@@ -1515,6 +1506,7 @@
 [BD]江苏影视,https://t.freetv.fun/live/jiang-su-ying-shi-1.m3u8
 [HD]深圳电视剧,https://t.freetv.fun/live/shen-zhen-dian-shi-ju.m3u8
 [BD]湖北影视,https://t.freetv.fun/live/hu-bei-ying-shi.m3u8
+[SD]湖南电视剧,https://t.freetv.fun/live/hu-nan-dian-shi-ju-1.m3u8
 [SD]湖南电视剧,https://t.freetv.fun/live/hu-nan-dian-shi-ju.m3u8
 [HD]绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-1.m3u8
 [HD]绍兴文化影院,https://t.freetv.fun/live/shao-xing-wen-hua-ying-yuan-1.m3u8
@@ -1556,9 +1548,8 @@
 [HD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-1.m3u8
 [SD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-2.m3u8
 [BD]cctv-15hd,https://t.freetv.fun/live/cctv-15hd-1.m3u8
-[BD]cctv-15hd,https://t.freetv.fun/live/cctv-15hd-2.m3u8
+[HD]cctv-15hd,https://t.freetv.fun/live/cctv-15hd-2.m3u8
 [BD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-3.m3u8
-[SD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-4.m3u8
 [BD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-6.m3u8
 [BD]cctv-15,https://t.freetv.fun/live/cctv-15-4.m3u8
 [BD]cctv-15,https://t.freetv.fun/live/cctv-15-5.m3u8
@@ -1583,10 +1574,8 @@
 [HD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
 [BD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 [SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-3.m3u8
-[SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-4.m3u8
 [SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-5.m3u8
 [SD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-6.m3u8
-[BD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-7.m3u8
 [BD]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-3.m3u8
 [BD]cctv-13,https://t.freetv.fun/live/cctv-13-6.m3u8
 [BD]cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-15.m3u8
@@ -1743,10 +1732,8 @@
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-11.m3u8
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-12.m3u8
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-13.m3u8
-[BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-14.m3u8
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-15.m3u8
 [VGA]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-16.m3u8
-[BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-17.m3u8
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-18.m3u8
 [BD]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-19.m3u8
 [VGA]广东新闻高清,https://t.freetv.fun/live/yan-dong-xin-wen-gao-qing-22.m3u8
@@ -1768,7 +1755,6 @@
 [VGA]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-11.m3u8
 [BD]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-12.m3u8
 [VGA]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-13.m3u8
-[BD]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-15.m3u8
 [BD]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-16.m3u8
 [BD]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-17.m3u8
 [VGA]揭阳综合高清,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-18.m3u8
@@ -1833,7 +1819,6 @@
 [VGA]上海第一财经,https://t.freetv.fun/live/shang-hai-di-yi-cai-jing.m3u8
 [BD]第一财经,https://t.freetv.fun/live/di-yi-cai-jing-1.m3u8
 [SD]第一财经,https://t.freetv.fun/live/di-yi-cai-jing-2.m3u8
-[BD]第一财经,https://t.freetv.fun/live/di-yi-cai-jing-3.m3u8
 [BD]第一财经,https://t.freetv.fun/live/di-yi-cai-jing-4.m3u8
 [SD]绍兴新闻,https://t.freetv.fun/live/shao-xing-xin-wen.m3u8
 [SD]绍兴新闻,https://t.freetv.fun/live/shao-xing-xin-wen-1.m3u8
@@ -1946,7 +1931,7 @@
 [BD]cctv-17hd,https://t.freetv.fun/live/cctv-17hd.m3u8
 [BD]cctv-17,https://t.freetv.fun/live/cctv-17-3.m3u8
 [HD]cctv-17hd,https://t.freetv.fun/live/cctv-17hd-1.m3u8
-[BD]cctv-17hd,https://t.freetv.fun/live/cctv-17hd-2.m3u8
+[HD]cctv-17hd,https://t.freetv.fun/live/cctv-17hd-2.m3u8
 [BD]cctv-17,https://t.freetv.fun/live/cctv-17-4.m3u8
 [BD]cctv17hd,https://t.freetv.fun/live/cctv17hd-1.m3u8
 [BD]cctv17hd,https://t.freetv.fun/live/cctv17hd-2.m3u8
@@ -1967,7 +1952,7 @@
 [VGA]cctv-7hd,https://t.freetv.fun/live/cctv-7hd.m3u8
 [BD]cctv7hd,https://t.freetv.fun/live/cctv7hd.m3u8
 [BD]cctv-7hd,https://t.freetv.fun/live/cctv-7hd-1.m3u8
-[BD]cctv-7hd,https://t.freetv.fun/live/cctv-7hd-2.m3u8
+[HD]cctv-7hd,https://t.freetv.fun/live/cctv-7hd-2.m3u8
 [HD]cctv-7,https://t.freetv.fun/live/cctv-7-4.m3u8
 [BD]cctv7hd,https://t.freetv.fun/live/cctv7hd-1.m3u8
 [BD]cctv-7,https://t.freetv.fun/live/cctv-7-5.m3u8
