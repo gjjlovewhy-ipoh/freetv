@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-06-09 19:00:02 UTC
+#Generated on: 2026-06-09 21:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-06-09 19:00:02 UTC
+#生成時間: 2026-06-09 21:00:02 UTC
 
 
 綜藝,#genre#
@@ -54,6 +54,7 @@
 [VGA]江苏综艺,https://t.freetv.fun/live/jiang-su-zong-yi.m3u8
 [SD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le.m3u8
 [BD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-1.m3u8
+[SD]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-2.m3u8
 綜合,#genre#
 [SD]cctv-8,https://t.freetv.fun/live/cctv-8.m3u8
 [BD]cctv-8hd,https://t.freetv.fun/live/cctv-8hd.m3u8
@@ -98,6 +99,7 @@
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
 [BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-5.m3u8
+[BD]cctv-4 中文国际,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-6.m3u8
 [SD]cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji-14.m3u8
 [BD]cgtn-español,https://t.freetv.fun/live/cgtn-espanol.m3u8
 [BD]rt español,https://t.freetv.fun/live/rt-espanol.m3u8
@@ -762,6 +764,7 @@
 [BD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-9.m3u8
 [BD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-11.m3u8
 [SD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-14.m3u8
+[HD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-15.m3u8
 [HD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-16.m3u8
 [BD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-18.m3u8
 [BD]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-19.m3u8
@@ -983,6 +986,7 @@
 [SD]湖南国际,https://t.freetv.fun/live/hu-nan-guo-ji-1.m3u8
 [SD]湖南经视,https://t.freetv.fun/live/hu-nan-jing-shi.m3u8
 [SD]湖南经视,https://t.freetv.fun/live/hu-nan-jing-shi-1.m3u8
+[SD]湖南经视,https://t.freetv.fun/live/hu-nan-jing-shi-2.m3u8
 [SD]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-1.m3u8
 [BD]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-3.m3u8
 [HD]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-5.m3u8
@@ -1325,6 +1329,7 @@
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-16.m3u8
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-18.m3u8
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-3.m3u8
+[SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-6.m3u8
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-7.m3u8
 [BD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-8.m3u8
 [SD]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-11.m3u8
@@ -1534,6 +1539,7 @@
 [HD]cctv-15hd,https://t.freetv.fun/live/cctv-15hd.m3u8
 [SD]cctv-15,https://t.freetv.fun/live/cctv-15-1.m3u8
 [SD]cctv15-音乐,https://t.freetv.fun/live/cctv15-yin-le-1.m3u8
+[BD]cctv-15,https://t.freetv.fun/live/cctv-15-2.m3u8
 [HD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le.m3u8
 [SD]cctv-15,https://t.freetv.fun/live/cctv-15-3.m3u8
 [HD]cctv15hd,https://t.freetv.fun/live/cctv15hd.m3u8
@@ -2044,6 +2050,7 @@
 [BD]岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
 [HD]岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-4.m3u8
 [HD]岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-5.m3u8
+[BD]岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-6.m3u8
 [SD]常山新闻综合,https://t.freetv.fun/live/chang-shan-xin-wen-zong-he.m3u8
 [HD]武乡新闻综合,https://t.freetv.fun/live/wu-xiang-xin-wen-zong-he-1.m3u8
 [BD]宣汉新闻综合,https://t.freetv.fun/live/xuan-yi-xin-wen-zong-he.m3u8
