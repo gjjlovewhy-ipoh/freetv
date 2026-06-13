@@ -3,7 +3,7 @@
 #freetv.fun does not provide or store any streaming media content.All channels are automatically collected from the network through crawlers, without any manual participation, just for testing purposes. Therefore, we do not guarantee the stability and legality of the channels, nor do we assume corresponding legal responsibilities. All legal responsibilities It should be the responsibility of the user and the source provider.
 #If you don't know how to use it, or don't have time to test it, you can download this recommended app for testing.
 #https://freetv.fun/app
-#Generated on: 2026-06-13 13:00:02 UTC
+#Generated on: 2026-06-13 16:00:02 UTC
 
 
 #這個檔案是由https://freetv.fun自動生成的,僅僅只是用於測試epg的準確性.
@@ -11,7 +11,7 @@
 #freetv.fun並不提供也不儲存任何的流媒體內容.所有的頻道都是由自動化系統通過網路自動收集而來,並沒有任何人工參與,僅僅只是為了測試.因此我們並不保證頻道的穩定性與合法性,我們也不承擔任何相關的法律責任.所有的法律責任與相關後果應由頻道的使用者與提供者自行承擔.
 #如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
 #下載地址為https://freetv.fun/app
-#生成時間: 2026-06-13 13:00:02 UTC
+#生成時間: 2026-06-13 16:00:02 UTC
 
 
 綜藝,#genre#
@@ -112,7 +112,7 @@
 [BD]内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-16.m3u8
 [BD]内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-18.m3u8
 [BD]内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-19.m3u8
-[BD]内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8
+[BD]内蒙古卫视,https://t.freetv.fun/live/nei-meng-gu-wei-shi-20.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-1.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-2.m3u8
 [BD]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-6.m3u8
@@ -644,7 +644,7 @@
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-27.m3u8
 [VGA]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-28.m3u8
 [BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-29.m3u8
-[BD]江苏卫视,http://123.129.70.178:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+[BD]江苏卫视,https://t.freetv.fun/live/jiang-su-wei-shi-31.m3u8
 [SD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-2.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-4.m3u8
 [BD]江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-5.m3u8
@@ -725,7 +725,7 @@
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-23.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-26.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-27.m3u8
-[BD]河南卫视,http://113.96.145.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=138aff3ad5ac6f9911bf7313f882e3ff&wsTime=1781363576&wsSession=43ec388451cdd08a55d74d25-178135248749859&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsBindIP=2&wsserid=1168295651980168679
+[BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-29.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-34.m3u8
 [BD]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-35.m3u8
 [BD]浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-2.m3u8
@@ -829,7 +829,7 @@
 [SD]海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-17.m3u8
 [BD]海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-18.m3u8
 [BD]海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-19.m3u8
-[BD]海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+[BD]海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-20.m3u8
 [BD]海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi.m3u8
 [BD]海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8
 [BD]海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-2.m3u8
@@ -971,7 +971,7 @@
 [SD]甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-11.m3u8
 [SD]甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-13.m3u8
 [SD]甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-15.m3u8
-[BD]甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
+[BD]甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-16.m3u8
 [HD]甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-21.m3u8
 [BD]生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-1.m3u8
 [SD]生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang.m3u8
@@ -1152,8 +1152,6 @@
 [BD]cctv-14,https://t.freetv.fun/live/cctv-14-4.m3u8
 [BD]cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-8.m3u8
 [VGA]cctv14-少儿,https://t.freetv.fun/live/cctv14-shao-er-4.m3u8
-[BD]cctv-14,https://t.freetv.fun/live/cctv-14-6.m3u8
-[BD]cctv-14,https://t.freetv.fun/live/cctv-14-7.php
 [SD]优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-1.m3u8
 [SD]优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-2.m3u8
 [SD]优漫卡通,https://t.freetv.fun/live/you-man-qia-tong-4.m3u8
@@ -1237,7 +1235,7 @@
 [BD]cctv9,https://t.freetv.fun/live/cctv9-6.m3u8
 [BD]cctv9,https://t.freetv.fun/live/cctv9-8.m3u8
 [BD]cctv9,https://t.freetv.fun/live/cctv9-9.m3u8
-[BD]cctv9,http://112.27.235.94:8000/hls/10/index.m3u8
+[BD]cctv9,https://t.freetv.fun/live/cctv9-2.m3u8
 [SD]cctv9,https://t.freetv.fun/live/cctv9-7.m3u8
 [SD]cctv-9,https://t.freetv.fun/live/cctv-9.m3u8
 [BD]cctv-9,https://t.freetv.fun/live/cctv-9-3.m3u8
@@ -1283,7 +1281,7 @@
 [BD]cctv6,https://t.freetv.fun/live/cctv6-5.m3u8
 [BD]cctv6,https://t.freetv.fun/live/cctv6-6.m3u8
 [BD]cctv6,https://t.freetv.fun/live/cctv6-7.m3u8
-[BD]cctv6,http://123.130.84.106:8154/tsfile/live/0006_1.m3u8
+[BD]cctv6,https://t.freetv.fun/live/cctv6-9.m3u8
 [SD]cctv6,https://t.freetv.fun/live/cctv6-33.m3u8
 [BD]cctv6,https://t.freetv.fun/live/cctv6-2.m3u8
 [BD]cctv6,https://t.freetv.fun/live/cctv6-3.m3u8
@@ -1400,7 +1398,6 @@
 [BD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-9.m3u8
 [BD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-10.m3u8
 [HD]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-11.m3u8
-[BD]cctv-15,https://t.freetv.fun/live/cctv-15-7.php
 [BD]cctv-风云音乐,https://t.freetv.fun/live/cctv-feng-yun-yin-le-2.m3u8
 新聞,#genre#
 [SD]cctv13,https://t.freetv.fun/live/cctv13.m3u8
@@ -1705,7 +1702,6 @@
 [BD]cctv-17,https://t.freetv.fun/live/cctv-17-1.m3u8
 [BD]cctv-17,https://t.freetv.fun/live/cctv-17-2.m3u8
 [BD]cctv-17,https://t.freetv.fun/live/cctv-17-4.m3u8
-[BD]cctv-17,https://t.freetv.fun/live/cctv-17-7.php
 [SD]cctv7,https://t.freetv.fun/live/cctv7-2.m3u8
 [HD]cctv7,https://t.freetv.fun/live/cctv7-15.m3u8
 [SD]cctv7,https://t.freetv.fun/live/cctv7-1.m3u8
@@ -1912,7 +1908,7 @@
 [SD]cctv5,https://t.freetv.fun/live/cctv5-5.m3u8
 [BD]cctv5,https://t.freetv.fun/live/cctv5-6.m3u8
 [BD]cctv5,https://t.freetv.fun/live/cctv5-9.m3u8
-[BD]cctv5,http://123.130.84.106:8154/tsfile/live/0005_1.m3u8
+[BD]cctv5,https://t.freetv.fun/live/cctv5-10.m3u8
 [HD]cctv-5,https://t.freetv.fun/live/cctv-5.m3u8
 [VGA]cctv5,https://t.freetv.fun/live/cctv5-21.m3u8
 [BD]cctv5,https://t.freetv.fun/live/cctv5-26.m3u8
